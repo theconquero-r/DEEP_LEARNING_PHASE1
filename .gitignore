@@ -1,0 +1,12 @@
+dl-env/
+venv/
+tf_gpu_env/
+Datasets/
+*.jpg
+*.png
+*.csv
+*.zip
+*.h5
+*.pt
+__pycache__/
+.ipynb_checkpoints/
